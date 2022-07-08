@@ -4,7 +4,7 @@ The Constitutions of Web3 data set, part of [Govbase](https://govbase.metagov.or
 
 ## Contributing
 
-If you would like to upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder, preferably as a .md file. Please make sure that the section titles are recognizable, and please include the following JSON metadata as a comment at the bottom of the file:
+If you would like to upload a (raw) constitution for a given online community, please either fill out the form at [https://metagov.typeform.com/addconstitution](https://metagov.typeform.com/addconstitution) or directly submit a pull request to add a file to this folder, preferably as a .md file. Please make sure that the section titles are recognizable, and please include the following JSON metadata as a comment at the bottom of the file:
 
 ```json
 { 
