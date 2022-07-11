@@ -28,6 +28,6 @@ Typically, a constitution articulates *goals*,  *values*, and *rights* within th
 Not sure if your governance document is a constitution? Constitutional rights and values are specified informally in all sorts of places: blog posts, manifestos, covenants, governance.md files, etc. If you have a question, please open an issue or submit a pull request, and we can help you figure it out. Some constitutional documents are very short (less than 10 sentences), while others are drafted by lawyers and span 20+ pages.
 
 # Team members
-Joshua Tan, Max Langenkamp, Ann Brody, Anna Weichselbraun, and Lucia Korpas
+Joshua Tan, Max Langenkamp, Anna Weichselbraun, Ann Brody, and Lucia Korpas
 
 Please contact josh@metagov.org if you have any questions or are looking for help in writing your organization's constitution.
