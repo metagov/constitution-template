@@ -12,7 +12,7 @@ Constitutions following this template are *digital*, *amendable*, *short*, *expo
 ## Preamble
 <!-- The preamble introduces the community / DAO, its goals, and its values. Focus on just the 2-3 values and 2-3 goals that really matter. -->
 
-## Article 1
+## Article 1:
 <!-- Each article of the constitution should respond to the goals and values articulated in the preamble. Each article should address an important issue, policy, institution, or right. -->
 
 
