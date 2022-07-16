@@ -29,3 +29,16 @@ Facilitating discussion and engagement in good faith: It is important to encoura
 On-chain actions: The proposal may contain on-chain actions defined to be executed on behalf of the DAO. If the signal request contains on-chain actions, they must be passed to execution through SafeSnap processes after the request's lifecycle ends with a successfully approved outcome.
 
 Note that thread starters cannot close an active signal request thread once it has gone live.
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "Community voting principles",
+  "name": "Opium DAO",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "2021-08-02",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "True",
+  "archived": "2022-07-09"
+}
